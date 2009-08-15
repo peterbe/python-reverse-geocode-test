@@ -54,6 +54,6 @@ for app, count in dict(app_failures).items():
     print app.ljust(20), count
 
 print
-print "TOTALS:"
+print "TOTALS TIMES:"
 for app, total in dict(app_totals).items():
     print app.ljust(20), str(total).ljust(20), total/app_totals_count[app], "seconds/request"
