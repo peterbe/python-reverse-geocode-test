@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/84/branches/reverse-geocode
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/76/branches/reverse-geocode/LICENSE
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/76/branches/reverse-geocode/setup.py
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/76/branches/reverse-geocode/setup.cfg
+END

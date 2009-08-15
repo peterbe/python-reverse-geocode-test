@@ -1,0 +1,31 @@
+9
+
+dir
+84
+http://geopy.googlecode.com/svn/branches/reverse-geocode/build/lib
+http://geopy.googlecode.com/svn
+
+
+
+2009-05-22T04:23:31.321467Z
+84
+david.ziegler
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+535ce8a4-231d-0410-ac7f-15f3cd728b52
+
+geopy
+dir
+
